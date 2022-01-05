@@ -1,9 +1,10 @@
 <h1 style="text-fill-color: transparent; background-image: linear-gradient(45deg, #f3ec78, #af4261); background-size: 100%;
-  background-repeat: repeat;">Full Stack Developer | Graphic Designer | Game Development Tutor</h1>
+  background-repeat: repeat">Full Stack Developer | Graphic Designer | Game Development Tutor</h1>
 
 I'm Stephanie Ranegar, and I'm a graphic designer that has a passion for full stack web development.
 <br/>
 - 👩🏻‍🎓 I'm a Senior @ IUPUI - Indianapolis
+- 🌱 I'm learning React and working on PHP using MVC
 - 🔮 Currently seeking a position as a Junior Web Developer
 - 🤖 I tutor kids from ages 7-14 in game development at <a href="https://www.codeninjas.com/" src="Code Ninjas">Code Ninjas</a>
 - 🎨 I do graphic design for IUPUI's School of Informatics and Computing
