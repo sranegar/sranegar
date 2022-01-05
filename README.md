@@ -1,4 +1,4 @@
-<h1 style="color: red;">Full Stack Developer | Graphic Designer | Game Development Tutor</h1>
+<h1 style="font-size: 25px; font-family: Arial Narrow">Full Stack Developer | Graphic Designer | Game Development Tutor</h1>
 
 I'm Stephanie Ranegar, and I'm a graphic designer that has a passion for full stack c o d i n g.
 <br/>
