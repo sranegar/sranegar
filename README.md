@@ -17,7 +17,7 @@
 
 ### Languages:
 
-[<img align="left" alt="Visual Studio Code" width="70px" src="	https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />][webdevplaylist]
+[<img align="left" alt="Visual Studio Code" width="70px" src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />][webdevplaylist]
 [<img align="left" alt="HTML5" width="70px" src="https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white" />][webdevplaylist]
 [<img align="left" alt="CSS3" width="110px" src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E" />][cssplaylist]
 [<img align="left" alt="Sass" width="60px" src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white" />][cssplaylist]
