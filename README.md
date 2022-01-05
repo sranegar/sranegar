@@ -33,9 +33,9 @@
 
 ### Libraries + Frameworks:
 [<img align="left" alt="React" width="80px" src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />][reactplaylist]
-[<img align="left" alt="React" width="60px" src="	https://img.shields.io/badge/npm-CB3837?style=for-the-badge&logo=npm&logoColor=white" />][reactplaylist]
+[<img align="left" alt="React" width="60px" src="https://img.shields.io/badge/npm-CB3837?style=for-the-badge&logo=npm&logoColor=white" />][reactplaylist]
 [<img align="left" alt="React" width="80px" src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" />][reactplaylist]
-[<img align="left" alt="React" width="110px" src="	https://img.shields.io/badge/Material%20UI-007FFF?style=for-the-badge&logo=mui&logoColor=white" />][reactplaylist]
+[<img align="left" alt="React" width="110px" src="https://img.shields.io/badge/Material%20UI-007FFF?style=for-the-badge&logo=mui&logoColor=white" />][reactplaylist]
 [<img align="left" alt="React" width="120px" src="https://img.shields.io/badge/Font_Awesome-339AF0?style=for-the-badge&logo=fontawesome&logoColor=white" />][reactplaylist]
 [<img align="left" alt="React" width="90px" src="https://img.shields.io/badge/Composer-885630?style=for-the-badge&logo=Composer&logoColor=white" />][reactplaylist]
 [<img align="left" alt="React" width="100px" src="https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white" />][reactplaylist]
