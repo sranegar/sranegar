@@ -43,13 +43,12 @@ I'm Stephanie Ranegar, and I'm a graphic designer that has a passion for full st
 ![PhpStorm](https://img.shields.io/badge/phpstorm-143?style=for-the-badge&logo=phpstorm&logoColor=black&color=black&labelColor=darkorchid)
 [<img align="left" alt="React" width="100px" src="https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white" />][reactplaylist]
 
-<p align="center"><h1 align="center">Let's connect!</h1>
+<p align="center"><h2 align="center">Let's Connect!</h2>
  <p align="center">
-    <a href="mailto:stephanie.ranegar@gmail.com" alt="Contact me"><img width="225px" src="https://img.shields.io/badge/stephanie.ranegar@gmail.com-bb85de?style=for-the-badge&logo=gmail&logoColor=white"></a>
-    </p>
-    <p align="center">
-    <a href="https://linkedin.com/in/stephanie-ranegar" alt="LinkedIn"><img width="160px" src="https://img.shields.io/badge/stephanieranegar-6898e9?style=for-the-badge&logo=LinkedIn&logoColor=white"/></a>
-    <a href="https://discordapp.com/users/stephanie.ranegar#5673/" alt="Discord"><img width="90px"src="https://img.shields.io/badge/discord-5865F2?style=for-the-badge&logo=discord&logoColor=white"></a>
+    <a href="mailto:stephanie.ranegar@gmail.com" alt="Contact me" ><img width="30px" src="svg\envelope-regular.svg"></a>
+    <a href="https://linkedin.com/in/stephanie-ranegar" alt="LinkedIn"><img width="25px" style="color: #fff" src="svg\linkedin-brands.svg"/></a>
+    <a href="https://discordapp.com/users/stephanie.ranegar#5673/" alt="Discord"><img width="36px"src="svg\discord-brands.svg"></a>
+
 </p>
 </p>
 
