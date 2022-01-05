@@ -13,9 +13,6 @@ I'm Stephanie Ranegar, and I'm a graphic designer that has a passion for full st
 
 [![Stephanie's GitHub stats](https://github-readme-streak-stats.herokuapp.com/?user=sranegar&show_icons=true&theme=nightowl&border_radius=15)](https://github.com/sranegar/github-readme-stats)
 
-[![Stephanie's GitHub stats](https://github-readme-stats.vercel.app/api?username=sranegar&show_icons=true&theme=tokyonight&border_radius=3)](https://github.com/sranegar/github-readme-stats)
-
-
 
 ## Skills:
 [<img align="left" alt="Visual Studio Code" width="70px" src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />][webdevplaylist]
@@ -74,9 +71,9 @@ I'm Stephanie Ranegar, and I'm a graphic designer that has a passion for full st
 </details>
 
 <details>
-  <summary>:zap: GitHub Stats</summary>
+  <summary>🔮 GitHub Stats</summary>
 
-  <img align="left" alt="codeSTACKr's GitHub Stats" src="https://github-readme-stats.codestackr.vercel.app/api?username=codeSTACKr&show_icons=true&hide_border=true" />
+  [![Stephanie's GitHub stats](https://github-readme-stats.vercel.app/api?username=sranegar&show_icons=true&theme=tokyonight&border_radius=3)](https://github.com/sranegar/github-readme-stats)
 
 </details>
 
