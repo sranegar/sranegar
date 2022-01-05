@@ -1,6 +1,7 @@
 # Full Stack Developer | Graphic Designer | Game Development Tutor
 
-<iframe src="https://giphy.com/embed/xT8qBhrlNooHBYR9f2" width="380" height="260" frameBorder="0" class="giphy-embed"></iframe><p><a href="https://giphy.com/gifs/cute-space-astronaut-xT8qBhrlNooHBYR9f2">via GIPHY</a></p>
+ <img align="right" alt="GIF" src="https://github.com/arsentieva/arsentieva/blob/main/code.gif?raw=true" width="500" height="320" />
+
 
 I'm Stephanie Ranegar, and I'm a  designer that has a passion for back-end and front-end web development.
 <br/>
