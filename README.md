@@ -19,10 +19,10 @@ I'm Stephanie Ranegar, and I'm a graphic designer that has a passion for full st
 <br />
 
 
-<p align="center"><h2 align="center">Let's connect!</h2>
+<p align="center"><h1 align="center">Let's connect!</h1>
  <p align="center">
-    <a href="https://linkedin.com/in/stephanie-ranegar" alt="LinkedIn"><img width="120px" src="https://img.shields.io/badge/stephanie-ranegar-0f80f2?style=for-the-badge&logo=LinkedIn&logoColor=white"/></a>
-    <a href="mailto:stephanie.ranegar@gmail.com" alt="Contact me"><img width="170px" src="https://img.shields.io/badge/stephanie.ranegar@gmail.com-c4318e?style=for-the-badge&logo=gmail&logoColor=white"></a>
+    <a href="mailto:stephanie.ranegar@gmail.com" alt="Contact me"><img width="170px" src="https://img.shields.io/badge/stephanie.ranegar@gmail.com-c4316e?style=for-the-badge&logo=gmail&logoColor=white"></a>
+    <a href="https://linkedin.com/in/stephanie-ranegar" alt="LinkedIn"><img width="120px" src="https://img.shields.io/badge/stephanie-ranegar-2c90f5?style=for-the-badge&logo=LinkedIn&logoColor=white"/></a>
     <a href="https://discordapp.com/users/stephanie.ranegar#5673/" alt="Discord"><img width="65px"src="https://img.shields.io/badge/discord-5865F2?style=for-the-badge&logo=discord&logoColor=white"></a>
 </p>
 </p>
