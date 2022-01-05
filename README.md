@@ -1,4 +1,4 @@
-<h2>Full Stack Developer | Graphic Designer | Game Development Tutor</h2>
+## Full Stack Developer | Graphic Designer | Game Development Tutor
 
 I'm Stephanie Ranegar, and I'm a  designer that has a passion for coding.
 <br/>
