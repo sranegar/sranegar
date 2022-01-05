@@ -48,6 +48,7 @@ I'm Stephanie Ranegar, and I'm a  designer that has a passion for back-end and f
 <img align="left" alt="XAMPP" width="70px" src="https://img.shields.io/badge/Xampp-F37623?style=for-the-badge&logo=xampp&logoColor=white" />
 <img align="left" alt="PhpStorm" width="100px" src="https://img.shields.io/badge/phpstorm-143?style=for-the-badge&logo=phpstorm&logoColor=black&color=black&labelColor=darkorchid" />
 
+<br>
 <p align="center"><h2 align="center">Let's Connect!</h2>
  <p align="center">
     <a href="mailto:stephanie.ranegar@gmail.com" alt="Contact me" ><img width="30px" src="svg\envelope-regular.svg"></a>
