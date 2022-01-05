@@ -2,15 +2,13 @@
 
  <img align="right" alt="GIF" src="https://media2.giphy.com/media/2AmRvmUaTXsJDnSjiP/giphy.gif?cid=ecf05e47pmwj2t847roavzl9lqxwbkrsvf50291sb4i54xtu&rid=giphy.gif&ct=g" width="350" height="375" />
 
-
-
 I'm Stephanie Ranegar, and I'm a  designer that has a passion for back-end and front-end web development.
 <br/>
 - 👩🏻‍🎓 I'm a Senior @ IUPUI - Indianapolis
 - 🌱 I'm learning React and working on PHP using MVC
 - 🔮 Currently seeking a position as a Junior Web Developer
 - 🤖 I tutor kids from ages 7-14 in game development at <a href="https://www.codeninjas.com/" src="Code Ninjas">Code Ninjas</a>
-- 🎨 I do graphic design for the School of Informatics and Computing
+- ⭐️ I do graphic design for the School of Informatics and Computing
 
 <hr>
 
@@ -19,7 +17,7 @@ I'm Stephanie Ranegar, and I'm a  designer that has a passion for back-end and f
 [![Stephanie's GitHub stats](https://github-readme-streak-stats.herokuapp.com/?user=sranegar&show_icons=true&theme=nightowl&border_radius=15)](https://github.com/sranegar/github-readme-stats)
 
 
-## Skills:
+## ⭐️ Skills:
 
 <img align="left" alt="html5" width="70px" src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
 <img align="left" alt="css" width="64px" src="https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white" />
@@ -32,7 +30,7 @@ I'm Stephanie Ranegar, and I'm a  designer that has a passion for back-end and f
 <br />
 <br />
 
-## Libraries + Frameworks:
+## ⚛️ Libraries + Frameworks:
 
 <img align="left" alt="React" width="72px" src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
 <img align="left" alt="NPM" width="56px" src="https://img.shields.io/badge/npm-CB3837?style=for-the-badge&logo=npm&logoColor=white" />
@@ -44,16 +42,16 @@ I'm Stephanie Ranegar, and I'm a  designer that has a passion for back-end and f
 <br />
 <br />
 
-## Other Tools:
+## ⚗️ **Other Tools:**
 <img align="left" alt="XAMPP" width="70px" src="https://img.shields.io/badge/Xampp-F37623?style=for-the-badge&logo=xampp&logoColor=white" />
 <img align="left" alt="PhpStorm" width="100px" src="https://img.shields.io/badge/phpstorm-143?style=for-the-badge&logo=phpstorm&logoColor=black&color=black&labelColor=darkorchid" />
 
 <br>
 <p align="center"><h2 align="center">Let's Connect!</h2>
  <p align="center">
-    <a href="mailto:stephanie.ranegar@gmail.com" alt="Contact me" ><img width="30px" src="svg\envelope-regular.svg"></a>
-    <a href="https://linkedin.com/in/stephanie-ranegar" alt="LinkedIn"><img width="25px" src="svg\linkedin-brands.svg"/></a>
-    <a href="https://discordapp.com/users/stephanie.ranegar#5673/" alt="Discord"><img width="36px"src="svg\discord-brands.svg"></a>
+    <a href="mailto:stephanie.ranegar@gmail.com" alt="Contact me"><img width="36px" src="svg\envelope-regular.svg"></a>
+    <a href="https://linkedin.com/in/stephanie-ranegar" alt="LinkedIn"><img width="29px" src="svg\linkedin-brands.svg"/></a>
+    <a href="https://discordapp.com/users/stephanie.ranegar#5673/" alt="Discord"><img width="42px"src="svg\discord-brands.svg"></a>
 </p>
 </p>
 
