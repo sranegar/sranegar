@@ -1,8 +1,8 @@
-## Hey - I'm Stephanie Ranegar. Thanks for stopping in! 
 ### Full Stack Developer | Graphic Designer | Game Development Tutor
-<br />
 
-- 👩🏻‍🎓 Senior @ IUPUI - Indianapolis.
+I'm Stephanie Ranegar, and I do full stack web development. I enjoy both ends of the spectrum when it comes to coding, as well as graphic design and *some* web design. I tutor kids from ages 7-14 in game development at Code Ninjas. Some more quick facts about me:
+<br/>
+- 👩🏻‍🎓 I'm a Senior @ IUPUI - Indianapolis
 - 🔭 Currently seeking a position as a Junior Web Developer
 - 🪐 Born on the wrong planet 
 
