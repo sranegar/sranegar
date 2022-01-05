@@ -59,6 +59,9 @@ I'm Stephanie Ranegar, and I'm a  **designer** that has a passion for **back-end
 
 <details>
   <summary>🐾 Recent GitHub Activity</summary>
+  
+  <!--START_SECTION:activity-->
+
 </details>
 
 <details>
