@@ -22,12 +22,12 @@ I'm Stephanie Ranegar, and I'm a graphic designer that has a passion for full st
 
 ### Connect with me:
 
-[<img align="left" alt="sranegar" width="70px" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />][email]
-[<img align="left" alt="sranegar" width="86px" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />][linkedin]
-[<img align="left" alt="sranegar" width="86px" src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" />][discord]
-
-<br />
-<br />
+ <p align="center">
+    <a href="https://linkedin.com/in/stephanie-ranegar" alt="LinkedIn"><img src="https://img.shields.io/badge/stephanie-ranegar-0A66C2?style=for-the-badge&logo=LinkedIn&logoColor=white"/></a>
+    <a href="mailto:stephanie.ranegar@gmail.com" alt="Contact me"><img src="https://img.shields.io/badge/stephanie.ranegar@gmail.com-c4318e?style=for-the-badge&logo=gmail&logoColor=white"></a>
+    <a href="https://discordapp.com/users/stephanie.ranegar#5673/" alt="Discord"><img src="https://img.shields.io/badge/discord-5865F2?style=for-the-badge&logo=discord&logoColor=white"></a>
+  </p>
+</p>
 
 ## Skills:
 [<img align="left" alt="Visual Studio Code" width="70px" src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />][webdevplaylist]
