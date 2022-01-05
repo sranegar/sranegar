@@ -10,7 +10,7 @@ I'm Stephanie Ranegar, and I'm a  designer that has a passion for back-end and f
 - 🌱 I'm learning React and working on PHP using MVC
 - 🔮 Currently seeking a position as a Junior Web Developer
 - 🤖 I tutor kids from ages 7-14 in game development at <a href="https://www.codeninjas.com/" src="Code Ninjas">Code Ninjas</a>
-- 🎨 I do graphic design for the School of Informatics and Computing at IUPUI
+- 🎨 I do graphic design for the School of Informatics and Computing
 
 <hr>
 
