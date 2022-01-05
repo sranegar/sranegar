@@ -24,15 +24,12 @@ I'm Stephanie Ranegar, and I'm a graphic designer that has a passion for full st
 
 [<img align="left" alt="sranegar" width="70px" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />][email]
 [<img align="left" alt="sranegar" width="86px" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />][linkedin]
-[<img align="left" alt="sranegar" width="120px" src="https://img.shields.io/badge/Stack_Overflow-FE7A16?style=for-the-badge&logo=stack-overflow&logoColor=white" />][linkedin]
-[<img align="left" alt="sranegar" width="75px" src="https://img.shields.io/badge/Slack-4A154B?style=for-the-badge&logo=slack&logoColor=white" />][slack]
 [<img align="left" alt="sranegar" width="86px" src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" />][discord]
 
 <br />
 <br />
 
 ## Skills:
-*React
 [<img align="left" alt="Visual Studio Code" width="70px" src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />][webdevplaylist]
 [<img align="left" alt="HTML5" width="70px" src="https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white" />][webdevplaylist]
 [<img align="left" alt="CSS3" width="110px" src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E" />][cssplaylist]
