@@ -6,12 +6,15 @@ I'm Stephanie Ranegar, and I do full stack web development. I enjoy both ends of
 - 🔭 Currently seeking a position as a Junior Web Developer
 
 🔮🔮🔮🔮🔮🔮🔮🔮🔮🔮🔮🔮🔮🔮🔮🔮🔮
-
-
-[![Stephanie's GitHub stats](https://github-readme-stats.vercel.app/api?username=sranegar&show_icons=true&theme=cobalt)](https://github.com/sranegar/github-readme-stats)
+<section>
+<center>
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sranegar&layout=compact&show_icons=true&theme=tokyonight&hide=hack&langs_count=8)](https://github.com/sranegar/github-readme-stats)
 
+[![Stephanie's GitHub stats](https://github-readme-stats.vercel.app/api?username=sranegar&show_icons=true&theme=cobalt)](https://github.com/sranegar/github-readme-stats)
+
+</center>
+</section>
 ### Connect with me:
 
 [<img align="left" alt="sranegar" width="70px" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />][email]
@@ -23,8 +26,8 @@ I'm Stephanie Ranegar, and I do full stack web development. I enjoy both ends of
 <br />
 <br />
 
-### Languages:
-
+## Skills:
+*React
 [<img align="left" alt="Visual Studio Code" width="70px" src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />][webdevplaylist]
 [<img align="left" alt="HTML5" width="70px" src="https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white" />][webdevplaylist]
 [<img align="left" alt="CSS3" width="110px" src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E" />][cssplaylist]
