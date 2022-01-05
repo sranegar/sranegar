@@ -17,11 +17,14 @@ I'm Stephanie Ranegar, and I'm a graphic designer that has a passion for full st
 [![Stephanie's GitHub stats](https://github-readme-stats.vercel.app/api?username=sranegar&show_icons=true&theme=cobalt)](https://github.com/sranegar/github-readme-stats)
 
 <a href="https://github.com/sranegar/github-readme-streak-stats">
-  <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=sranegar&show_icons=true&theme=cobalt" />
+  <img align="left" src="https://github-readme-streak-stats.herokuapp.com/?user=sranegar&show_icons=true&theme=cobalt" />
 </a>
 <a href="https://github.com/sranegar/github-readme-stats">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=sranegar&show_icons=true&theme=cobalt" />
+  <img align="right" src="https://github-readme-stats.vercel.app/api?username=sranegar&show_icons=true&theme=cobalt" />
 </a>
+
+<br />
+<br />
 
 ### Connect with me:
 
