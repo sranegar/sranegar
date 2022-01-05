@@ -11,6 +11,9 @@
 
 [<img align="left" alt="sranegar" width="70px" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />][email]
 [<img align="left" alt="codeSTACKr | Instagram" width="86px" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />][linkedin]
+[<img align="left" alt="codeSTACKr | Instagram" width="120px" src="https://img.shields.io/badge/Stack_Overflow-FE7A16?style=for-the-badge&logo=stack-overflow&logoColor=white" />][linkedin]
+[<img align="left" alt="codeSTACKr | Instagram" width="75px" src="https://img.shields.io/badge/Slack-4A154B?style=for-the-badge&logo=slack&logoColor=white" />][slack]
+[<img align="left" alt="codeSTACKr | Instagram" width="86px" src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" />][discord]
 
 <br />
 <br />
@@ -29,10 +32,21 @@
 <br />
 
 ### Libraries + Frameworks:
+[<img align="left" alt="React" width="80px" src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />][reactplaylist]
+[<img align="left" alt="React" width="60px" src="	https://img.shields.io/badge/npm-CB3837?style=for-the-badge&logo=npm&logoColor=white" />][reactplaylist]
+[<img align="left" alt="React" width="80px" src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" />][reactplaylist]
+[<img align="left" alt="React" width="110px" src="	https://img.shields.io/badge/Material%20UI-007FFF?style=for-the-badge&logo=mui&logoColor=white" />][reactplaylist]
+[<img align="left" alt="React" width="120px" src="https://img.shields.io/badge/Font_Awesome-339AF0?style=for-the-badge&logo=fontawesome&logoColor=white" />][reactplaylist]
+[<img align="left" alt="React" width="90px" src="https://img.shields.io/badge/Composer-885630?style=for-the-badge&logo=Composer&logoColor=white" />][reactplaylist]
+[<img align="left" alt="React" width="100px" src="https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white" />][reactplaylist]
+[<img align="left" alt="React" width="80px" src="https://img.shields.io/badge/jQuery-0769AD?style=for-the-badge&logo=jquery&logoColor=white" />][reactplaylist]
 
+
+
+
+<br />
+<br />
 ---
-
-
 ---
 
 <details>
@@ -57,7 +71,8 @@
 
 [website]: https://codeSTACKr.com
 [email]: stephanie.ranegar@gmail.com
-[instagram]: https://instagram.com/codeSTACKr
+[slack]: stephanie.ranegar@gmail.com
+[discord]: stephanie.ranegar@gmail.com
 [linkedin]: www.linkedin.com/in/stephanie-ranegar
 [webdevplaylist]: https://www.youtube.com/playlist?list=PLkwxH9e_vrAJ0WbEsFA9W3I1W-g_BTsbt
 [jsplaylist]: https://www.youtube.com/playlist?list=PLkwxH9e_vrALRJKu7wfXby3MKeflhTu6B
