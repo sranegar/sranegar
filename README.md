@@ -7,7 +7,6 @@ I'm Stephanie Ranegar, and I do full stack web development. I enjoy both ends of
 
 🔮🔮🔮🔮🔮🔮🔮🔮🔮🔮🔮🔮🔮🔮🔮🔮🔮
 
-<br/>
 
 [![Stephanie's GitHub stats](https://github-readme-stats.vercel.app/api?username=sranegar&show_icons=true&theme=cobalt)](https://github.com/sranegar/github-readme-stats)
 
