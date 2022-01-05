@@ -6,6 +6,9 @@
 - 🔭 Currently seeking a position as a Junior Web Developer
 - 🪐 Born on the wrong planet 
 
+[![Stephanie's GitHub stats](https://github-readme-stats.vercel.app/api?username=sranegar&show_icons=true&theme=cobalt)](https://github.com/sranegar/github-readme-stats)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sranegar&layout=compact&show_icons=true&theme=tokyonight&hide=hack&langs_count=8)](https://github.com/sranegar/github-readme-stats)
 
 ### Connect with me:
 
@@ -49,9 +52,7 @@
 [<img align="left" alt="React" width="100px" src="https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white" />][reactplaylist]
 
 
-[![Stephanie's GitHub stats](https://github-readme-stats.vercel.app/api?username=sranegar&show_icons=true&theme=cobalt)](https://github.com/sranegar/github-readme-stats)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sranegar&layout=compact&show_icons=true&theme=tokyonight&hide=hack&langs_count=8)](https://github.com/sranegar/github-readme-stats)
 ---
 ---
 
