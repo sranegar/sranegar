@@ -59,9 +59,7 @@ I'm Stephanie Ranegar, and I'm a graphic designer that has a passion for full st
 
 <details>
   <summary>🐾 Recent GitHub Activity</summary>
-  
-<!--START_SECTION:activity-->
-<!--END_SECTION:activity-->
+
 
 </details>
 
