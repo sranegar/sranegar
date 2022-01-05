@@ -17,7 +17,7 @@ I'm Stephanie Ranegar, and I'm a  **designer** that has a passion for **back-end
 [![Stephanie's GitHub stats](https://github-readme-streak-stats.herokuapp.com/?user=sranegar&show_icons=true&theme=nightowl&border_radius=15)](https://github.com/sranegar/github-readme-stats)
 
 
-### ⭐️ Skills :
+### ⭐️ Skills:
 
 <img align="left" alt="html5" width="70px" src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
 <img align="left" alt="css" width="62px" src="https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white" />
@@ -30,7 +30,7 @@ I'm Stephanie Ranegar, and I'm a  **designer** that has a passion for **back-end
 <br />
 <br />
 
-### ⚛️ Libraries + Frameworks :
+### ⚛️ Libraries + Frameworks:
 
 <img align="left" alt="React" width="67px" src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
 <img align="left" alt="NPM" width="57px" src="https://img.shields.io/badge/npm-CB3837?style=for-the-badge&logo=npm&logoColor=white" />
@@ -38,11 +38,12 @@ I'm Stephanie Ranegar, and I'm a  **designer** that has a passion for **back-end
 <img align="left" alt="Material UI" width="103px" src="https://img.shields.io/badge/Material%20UI-007FFF?style=for-the-badge&logo=mui&logoColor=white" />
 <img align="left" alt="Composer" width="90px" src="https://img.shields.io/badge/Composer-885630?style=for-the-badge&logo=Composer&logoColor=white" />
 <img align="left" alt="Bootstrap" width="99px" src="https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white" />
+<img align="left" alt="Bootstrap" width=62px" src="https://img.shields.io/badge/p5.js-ED225D?style=for-the-badge&logo=p5.js&logoColor=FFFFFF" />
 
 <br />
 <br />
 
-### ⚗️ Other Tools :
+### ⚗️ Other Tools:
 <img align="left" alt="XAMPP" width="70px" src="https://img.shields.io/badge/Xampp-F37623?style=for-the-badge&logo=xampp&logoColor=white" />
 <img align="left" alt="PhpStorm" width="99px" src="https://img.shields.io/badge/phpstorm-143?style=for-the-badge&logo=phpstorm&logoColor=black&color=black&labelColor=darkorchid" />
 
