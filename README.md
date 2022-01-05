@@ -15,9 +15,6 @@ I'm Stephanie Ranegar, and I'm a graphic designer that has a passion for full st
 
 [![Stephanie's GitHub stats](https://github-readme-stats.vercel.app/api?username=sranegar&show_icons=true&theme=tokyonight&border_radius=3)](https://github.com/sranegar/github-readme-stats)
 
-<br />
-<br />
-
 
 <p align="center"><h1 align="center">Let's connect!</h1>
  <p align="center">
