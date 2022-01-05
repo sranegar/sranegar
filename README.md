@@ -49,7 +49,7 @@ I'm Stephanie Ranegar, and I'm a  **designer** that has a passion for **back-end
 <img align="left" alt="PhpStorm" width="99px" src="https://img.shields.io/badge/phpstorm-143?style=for-the-badge&logo=phpstorm&logoColor=black&color=black&labelColor=darkorchid" />
 
 <br>
-<p align="center"><h2 align="center">Let's Connect!</h2><p align="center"><i>I want to collaborate more in 2022. I'd love to hear from you!</i></p>
+<p align="center"><p align="center"><strong>Let's Connect!</strong><br><i>I want to collaborate more in 2022. I'd love to hear from you!</i></p>
  <p align="center">
     <a href="mailto:stephanie.ranegar@gmail.com" alt="Contact me"><img width="36px" src="svg\envelope-regular.svg"></a>&nbsp;&nbsp;
     <a href="https://linkedin.com/in/stephanie-ranegar" alt="LinkedIn"><img width="29px" src="svg\linkedin-brands.svg"/></a>&nbsp;&nbsp;
