@@ -46,7 +46,7 @@ I'm Stephanie Ranegar, and I'm a graphic designer that has a passion for full st
 <p align="center"><h2 align="center">Let's Connect!</h2>
  <p align="center">
     <a href="mailto:stephanie.ranegar@gmail.com" alt="Contact me" ><img width="30px" src="svg\envelope-regular.svg"></a>
-    <a href="https://linkedin.com/in/stephanie-ranegar" alt="LinkedIn"><img width="25px" style="color: #fff" src="svg\linkedin-brands.svg"/></a>
+    <a href="https://linkedin.com/in/stephanie-ranegar" alt="LinkedIn"><img width="25px" background-color="#fff" src="svg\linkedin-brands.svg"/></a>
     <a href="https://discordapp.com/users/stephanie.ranegar#5673/" alt="Discord"><img width="36px"src="svg\discord-brands.svg"></a>
 
 </p>
