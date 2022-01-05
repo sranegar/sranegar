@@ -40,6 +40,9 @@
 [<img align="left" alt="React" width="90px" src="https://img.shields.io/badge/Composer-885630?style=for-the-badge&logo=Composer&logoColor=white" />][reactplaylist]
 [<img align="left" alt="React" width="100px" src="https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white" />][reactplaylist]
 
+<br />
+<br />
+
 ### Other Tools:
 [<img align="left" alt="React" width="70px" src="https://img.shields.io/badge/Xampp-F37623?style=for-the-badge&logo=xampp&logoColor=white" />][reactplaylist]
 ![PhpStorm](https://img.shields.io/badge/phpstorm-143?style=for-the-badge&logo=phpstorm&logoColor=black&color=black&labelColor=darkorchid)
