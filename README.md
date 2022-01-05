@@ -1,6 +1,8 @@
-## Full Stack Developer | Graphic Designer | Game Development Tutor
+# Full Stack Developer | Graphic Designer | Game Development Tutor
 
-I'm Stephanie Ranegar, and I'm a  designer that has a passion for coding.
+<iframe src="https://giphy.com/embed/xT8qBhrlNooHBYR9f2" width="380" height="260" frameBorder="0" class="giphy-embed"></iframe><p><a href="https://giphy.com/gifs/cute-space-astronaut-xT8qBhrlNooHBYR9f2">via GIPHY</a></p>
+
+I'm Stephanie Ranegar, and I'm a  designer that has a passion for back-end and front-end web development.
 <br/>
 - 👩🏻‍🎓 I'm a Senior @ IUPUI - Indianapolis
 - 🌱 I'm learning React and working on PHP using MVC
