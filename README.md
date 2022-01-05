@@ -24,7 +24,7 @@ I'm Stephanie Ranegar, and I'm a  **designer** that has a passion for **back-end
 <img align="left" alt="JavaScript" width="108px" src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E" />
 <img align="left" alt="PHP" width="55px" src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white" />
 <img align="left" alt="JSON" width="65px" src="https://img.shields.io/badge/json-5E5C5C?style=for-the-badge&logo=json&logoColor=white" />
-<img align="left" alt="MySql" width="72px" src="https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white" />
+<img align="left" alt="MySql" width="73px" src="https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white" />
 
 
 <br />
@@ -47,7 +47,7 @@ I'm Stephanie Ranegar, and I'm a  **designer** that has a passion for **back-end
 <img align="left" alt="PhpStorm" width="100px" src="https://img.shields.io/badge/phpstorm-143?style=for-the-badge&logo=phpstorm&logoColor=black&color=black&labelColor=darkorchid" />
 
 <br>
-<p align="center"><h2 align="center">Let's Connect!</h2>
+<p align="center"><h2 align="center">Let's Connect!</h2><p><i>I want to develop more friendships in the coding world, so I'd love to hear from you!</i></p>
  <p align="center">
     <a href="mailto:stephanie.ranegar@gmail.com" alt="Contact me"><img width="36px" src="svg\envelope-regular.svg"></a>
     <a href="https://linkedin.com/in/stephanie-ranegar" alt="LinkedIn"><img width="29px" src="svg\linkedin-brands.svg"/></a>
