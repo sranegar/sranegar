@@ -1,4 +1,7 @@
-## Full Stack Developer | Graphic Designer | Game Development Tutor
+<h2 style="text-fill-color: transparent; background-image: linear-gradient(45deg, #f3ec78, #af4261); background-size: 100%;
+  background-repeat: repeat; -webkit-background-clip: text;  -webkit-text-fill-color: transparent; 
+  -moz-background-clip: text;
+  -moz-text-fill-color: transparent;">Full Stack Developer | Graphic Designer | Game Development Tutor</h2>
 
 I'm Stephanie Ranegar, and I'm a graphic designer that has a passion for full stack web development.
 <br/>
