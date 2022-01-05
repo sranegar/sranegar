@@ -14,7 +14,8 @@ I'm Stephanie Ranegar, and I'm a  designer that has a passion for back-end and f
 
 <hr>
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sranegar&layout=compact&show_icons=true&theme=tokyonight&hide=hack&langs_count=8&border_radius=3&margin_left=10)](https://github.com/sranegar/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sranegar&layout=compact&show_icons=true&theme=tokyonight&hide=hack&langs_count=8&border_radius=3)](https://github.com/sranegar/github-readme-stats)
+
 [![Stephanie's GitHub stats](https://github-readme-streak-stats.herokuapp.com/?user=sranegar&show_icons=true&theme=nightowl&border_radius=15)](https://github.com/sranegar/github-readme-stats)
 
 
@@ -25,7 +26,7 @@ I'm Stephanie Ranegar, and I'm a  designer that has a passion for back-end and f
 <img align="left" alt="JavaScript" width="108px" src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E" />
 <img align="left" alt="PHP" width="55px" src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white" />
 <img align="left" alt="JSON" width="65px" src="https://img.shields.io/badge/json-5E5C5C?style=for-the-badge&logo=json&logoColor=white" />
-<img align="left" alt="MySql" width="70px" src="https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white" />
+<img align="left" alt="MySql" width="72px" src="https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white" />
 
 
 <br />
