@@ -60,14 +60,6 @@ I'm Stephanie Ranegar, and I'm a  **designer** that has a passion for **back-end
 ---
 
 <details>
-  <summary>🐾 Recent GitHub Activity</summary>
-  
-  <!--START_SECTION:activity-->
-  <!--END_SECTION:activity-->
-  
-</details>
-
-<details>
   <summary>🔮 GitHub Stats</summary>
 
   [![Stephanie's GitHub stats](https://github-readme-stats.vercel.app/api?username=sranegar&show_icons=true&theme=tokyonight&border_radius=3)](https://github.com/sranegar/github-readme-stats)
