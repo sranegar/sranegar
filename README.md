@@ -1,6 +1,6 @@
 # Full Stack Developer | Graphic Designer | Game Development Tutor
 
- <img align="right" alt="GIF" src="https://media2.giphy.com/media/EuwbSy46466Q0/giphy.gif?cid=ecf05e47t9f5aza186h3540bvm719yxezlg5j1oc5350kw6r&rid=giphy.gif&ct=g" width="350" height="330" />
+ <img align="right" alt="GIF" src="https://media0.giphy.com/media/3CZ3cqAHhaa21p45qX/giphy.gif?cid=ecf05e47qr9prdfj4g6ns3ki9sezr1glv023x8z9o8s3ah2t&rid=giphy.gif&ct=g" width="350" height="430" />
 
 
 
