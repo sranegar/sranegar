@@ -1,6 +1,6 @@
 # Full Stack Developer | Graphic Designer 
 
- <img align="right" alt="GIF" src="https://media2.giphy.com/media/2AmRvmUaTXsJDnSjiP/giphy.gif?cid=ecf05e47pmwj2t847roavzl9lqxwbkrsvf50291sb4i54xtu&rid=giphy.gif&ct=g" width="350" height="375" />
+ <img align="right" alt="GIF" src="https://media2.giphy.com/media/2AmRvmUaTXsJDnSjiP/giphy.gif?cid=ecf05e47pmwj2t847roavzl9lqxwbkrsvf50291sb4i54xtu&rid=giphy.gif&ct=g" width="345" height="375" />
 
 I'm Stephanie Ranegar, and I'm a  **designer** that has a passion for **back-end** and **front-end web development.**
 <br/>
@@ -44,6 +44,7 @@ I'm Stephanie Ranegar, and I'm a  **designer** that has a passion for **back-end
 <br />
 
 ### ⚗️ Other Tools:
+<img align="left" alt="XAMPP" width="153px" src="https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white" />
 <img align="left" alt="XAMPP" width="70px" src="https://img.shields.io/badge/Xampp-F37623?style=for-the-badge&logo=xampp&logoColor=white" />
 <img align="left" alt="PhpStorm" width="99px" src="https://img.shields.io/badge/phpstorm-143?style=for-the-badge&logo=phpstorm&logoColor=black&color=black&labelColor=darkorchid" />
 
