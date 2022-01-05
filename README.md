@@ -1,19 +1,27 @@
 ### Full Stack Developer | Graphic Designer | Game Development Tutor
 
-I'm Stephanie Ranegar, and I do full stack web development. I enjoy both ends of the spectrum when it comes to coding, as well as graphic design and *some* web design. I tutor kids from ages 7-14 in game development at Code Ninjas. Some more quick facts about me:
+I'm Stephanie Ranegar, and I'm a graphic designer that has a passion for full stack web development.
 <br/>
 - 👩🏻‍🎓 I'm a Senior @ IUPUI - Indianapolis
-- 🔭 Currently seeking a position as a Junior Web Developer
+- 🔮 Currently seeking a position as a Junior Web Developer
+- 💻 I tutor kids from ages 7-14 in game development at Code Ninjas.
 
 🔮🔮🔮🔮🔮🔮🔮🔮🔮🔮🔮🔮🔮🔮🔮🔮🔮
 
-<center>
+
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sranegar&layout=compact&show_icons=true&theme=tokyonight&hide=hack&langs_count=8)](https://github.com/sranegar/github-readme-stats)
 
+[![Stephanie's GitHub stats](https://github-readme-streak-stats.herokuapp.com/?user=sranegar&show_icons=true&theme=cobalt)](https://github.com/sranegar/github-readme-stats)
+
 [![Stephanie's GitHub stats](https://github-readme-stats.vercel.app/api?username=sranegar&show_icons=true&theme=cobalt)](https://github.com/sranegar/github-readme-stats)
 
-</center>
+<a href="https://github.com/sranegar/github-readme-streak-stats">
+  <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=sranegar&show_icons=true&theme=cobalt" />
+</a>
+<a href="https://github.com/sranegar/github-readme-stats">
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=sranegar&show_icons=true&theme=cobalt" />
+</a>
 
 ### Connect with me:
 
