@@ -6,7 +6,7 @@ I'm Stephanie Ranegar, and I do full stack web development. I enjoy both ends of
 - 🔭 Currently seeking a position as a Junior Web Developer
 
 🔮🔮🔮🔮🔮🔮🔮🔮🔮🔮🔮🔮🔮🔮🔮🔮🔮
-<section>
+
 <center>
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sranegar&layout=compact&show_icons=true&theme=tokyonight&hide=hack&langs_count=8)](https://github.com/sranegar/github-readme-stats)
@@ -14,7 +14,7 @@ I'm Stephanie Ranegar, and I do full stack web development. I enjoy both ends of
 [![Stephanie's GitHub stats](https://github-readme-stats.vercel.app/api?username=sranegar&show_icons=true&theme=cobalt)](https://github.com/sranegar/github-readme-stats)
 
 </center>
-</section>
+
 ### Connect with me:
 
 [<img align="left" alt="sranegar" width="70px" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />][email]
