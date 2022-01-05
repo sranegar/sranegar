@@ -50,6 +50,8 @@
 
 
 [![Stephanie's GitHub stats](https://github-readme-stats.vercel.app/api?username=sranegar&show_icons=true&theme=cobalt)](https://github.com/sranegar/github-readme-stats)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sranegar&layout=compact&show_icons=true&theme=tokyonight&hide=hack&langs_count=8)](https://github.com/sranegar/github-readme-stats)
 ---
 ---
 
