@@ -1,6 +1,6 @@
 # Full Stack Developer | Graphic Designer 
 
- <img align="right" alt="GIF" src="https://media2.giphy.com/media/2AmRvmUaTXsJDnSjiP/giphy.gif?cid=ecf05e47pmwj2t847roavzl9lqxwbkrsvf50291sb4i54xtu&rid=giphy.gif&ct=g" width="360" height="375" />
+ <img align="right" alt="GIF" src="https://media2.giphy.com/media/2AmRvmUaTXsJDnSjiP/giphy.gif?cid=ecf05e47pmwj2t847roavzl9lqxwbkrsvf50291sb4i54xtu&rid=giphy.gif&ct=g" width="350" height="375" />
 
 
 
