@@ -2,7 +2,7 @@
 
  <img align="right" alt="GIF" src="https://media2.giphy.com/media/2AmRvmUaTXsJDnSjiP/giphy.gif?cid=ecf05e47pmwj2t847roavzl9lqxwbkrsvf50291sb4i54xtu&rid=giphy.gif&ct=g" width="350" height="375" />
 
-I'm Stephanie Ranegar, and I'm a  **designer** that has a passion for back-end and front-end web development.
+I'm Stephanie Ranegar, and I'm a  **designer** that has a passion for **back-end** and **front-end web development.**
 <br/>
 - 👩🏻‍🎓 I'm a Senior @ IUPUI - Indianapolis
 - 🌱 I'm learning React and working on PHP using MVC
