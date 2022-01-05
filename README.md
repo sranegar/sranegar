@@ -11,7 +11,7 @@ I'm Stephanie Ranegar, and I'm a graphic designer that has a passion for full st
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sranegar&layout=compact&show_icons=true&theme=tokyonight&hide=hack&langs_count=8&border_radius=3)](https://github.com/sranegar/github-readme-stats)
 
-[![Stephanie's GitHub stats](https://github-readme-streak-stats.herokuapp.com/?user=sranegar&show_icons=true&theme=tokyonight&border_radius=15)](https://github.com/sranegar/github-readme-stats)
+[![Stephanie's GitHub stats](https://github-readme-streak-stats.herokuapp.com/?user=sranegar&show_icons=true&theme=omni&border_radius=15)](https://github.com/sranegar/github-readme-stats)
 
 [![Stephanie's GitHub stats](https://github-readme-stats.vercel.app/api?username=sranegar&show_icons=true&theme=tokyonight&border_radius=3)](https://github.com/sranegar/github-readme-stats)
 
