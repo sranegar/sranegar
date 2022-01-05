@@ -1,6 +1,7 @@
 # Full Stack Developer | Graphic Designer | Game Development Tutor
 
- <!-- <img align="right" alt="GIF" src="https://github.com/arsentieva/arsentieva/blob/main/code.gif?raw=true" width="500" height="320" /> -->
+ <img align="right" alt="GIF" src="https://media2.giphy.com/media/EuwbSy46466Q0/giphy.gif?cid=ecf05e47t9f5aza186h3540bvm719yxezlg5j1oc5350kw6r&rid=giphy.gif&ct=g" width="150" height="320" />
+
 
 
 I'm Stephanie Ranegar, and I'm a  designer that has a passion for back-end and front-end web development.
