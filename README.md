@@ -51,8 +51,8 @@ I'm Stephanie Ranegar, and I'm a  **designer** that has a passion for **back-end
 <br>
 <p align="center"><h2 align="center">Let's Connect!</h2><p align="center"><i>I want to develop more friendships in the coding world. I'd love to hear from you!</i></p>
  <p align="center">
-    <a href="mailto:stephanie.ranegar@gmail.com" alt="Contact me"><img width="36px" src="svg\envelope-regular.svg"></a>&nbsp;&nbsp;&nbsp;&nbsp
-    <a href="https://linkedin.com/in/stephanie-ranegar" alt="LinkedIn"><img width="29px" src="svg\linkedin-brands.svg"/></a>&nbsp;&nbsp;&nbsp;&nbsp
+    <a href="mailto:stephanie.ranegar@gmail.com" alt="Contact me"><img width="36px" src="svg\envelope-regular.svg"></a>&nbsp;&nbsp;
+    <a href="https://linkedin.com/in/stephanie-ranegar" alt="LinkedIn"><img width="29px" src="svg\linkedin-brands.svg"/></a>&nbsp;&nbsp;
     <a href="https://discordapp.com/users/stephanie.ranegar#5673/" alt="Discord"><img width="42px"src="svg\discord-brands.svg"></a>
 </p>
 </p>
