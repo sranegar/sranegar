@@ -20,11 +20,11 @@ I'm Stephanie Ranegar, and I'm a graphic designer that has a passion for full st
 
  <p align="center">
     <h3 style="margin-bottom: 4px; font-size: 20px">Connect with me:</h3>
-    <a href="https://linkedin.com/in/stephanie-ranegar" alt="LinkedIn"><img width="120px" src="https://img.shields.io/badge/stephanie-ranegar-0A66C2?style=for-the-badge&logo=LinkedIn&logoColor=white"/></a>
+    <a href="https://linkedin.com/in/stephanie-ranegar" alt="LinkedIn"><img width="120px" src="https://img.shields.io/badge/stephanie-ranegar-0f80f2?style=for-the-badge&logo=LinkedIn&logoColor=white"/></a>
     <a href="mailto:stephanie.ranegar@gmail.com" alt="Contact me"><img width="170px" src="https://img.shields.io/badge/stephanie.ranegar@gmail.com-c4318e?style=for-the-badge&logo=gmail&logoColor=white"></a>
     <a href="https://discordapp.com/users/stephanie.ranegar#5673/" alt="Discord"><img width="65px"src="https://img.shields.io/badge/discord-5865F2?style=for-the-badge&logo=discord&logoColor=white"></a>
-  </p>
 </p>
+
 
 ## Skills:
 [<img align="left" alt="Visual Studio Code" width="70px" src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />][webdevplaylist]
