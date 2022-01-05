@@ -17,7 +17,7 @@ I'm Stephanie Ranegar, and I'm a  **designer** that has a passion for **back-end
 [![Stephanie's GitHub stats](https://github-readme-streak-stats.herokuapp.com/?user=sranegar&show_icons=true&theme=nightowl&border_radius=15)](https://github.com/sranegar/github-readme-stats)
 
 
-### ⭐️ Skills:
+### ⭐️ Skills :
 
 <img align="left" alt="html5" width="70px" src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
 <img align="left" alt="css" width="64px" src="https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white" />
@@ -30,7 +30,7 @@ I'm Stephanie Ranegar, and I'm a  **designer** that has a passion for **back-end
 <br />
 <br />
 
-### ⚛️ Libraries + Frameworks:
+### ⚛️ Libraries + Frameworks :
 
 <img align="left" alt="React" width="72px" src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
 <img align="left" alt="NPM" width="56px" src="https://img.shields.io/badge/npm-CB3837?style=for-the-badge&logo=npm&logoColor=white" />
@@ -42,7 +42,7 @@ I'm Stephanie Ranegar, and I'm a  **designer** that has a passion for **back-end
 <br />
 <br />
 
-### ⚗️ **Other Tools:**
+### ⚗️ Other Tools :
 <img align="left" alt="XAMPP" width="70px" src="https://img.shields.io/badge/Xampp-F37623?style=for-the-badge&logo=xampp&logoColor=white" />
 <img align="left" alt="PhpStorm" width="100px" src="https://img.shields.io/badge/phpstorm-143?style=for-the-badge&logo=phpstorm&logoColor=black&color=black&labelColor=darkorchid" />
 
