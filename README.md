@@ -21,12 +21,12 @@ I'm Stephanie Ranegar, and I'm a  designer that has a passion for back-end and f
 
 ## Skills:
 
-<img align="left" alt="Visual Studio Code" width="70px" src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
-<img align="left" alt="HTML5" width="70px" src="https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white" />
-<img align="left" alt="CSS3" width="110px" src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E" />
-<img align="left" alt="Sass" width="60px" src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white" />
-<img align="left" alt="JavaScript" width="70px" src="https://img.shields.io/badge/json-5E5C5C?style=for-the-badge&logo=json&logoColor=white" />
-<img align="left" alt="React" width="70px" src="https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white" />
+<img align="left" alt="html5" width="70px" src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
+<img align="left" alt="css" width="68px" src="https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white" />
+<img align="left" alt="JavaScript" width="108px" src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E" />
+<img align="left" alt="PHP" width="55px" src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white" />
+<img align="left" alt="JSON" width="65px" src="https://img.shields.io/badge/json-5E5C5C?style=for-the-badge&logo=json&logoColor=white" />
+<img align="left" alt="MySql" width="70px" src="https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white" />
 
 
 <br />
@@ -35,19 +35,18 @@ I'm Stephanie Ranegar, and I'm a  designer that has a passion for back-end and f
 ## Libraries + Frameworks:
 
 <img align="left" alt="React" width="80px" src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
-<img align="left" alt="React" width="60px" src="https://img.shields.io/badge/npm-CB3837?style=for-the-badge&logo=npm&logoColor=white" />
-<img align="left" alt="React" width="80px" src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" />
-<img align="left" alt="React" width="110px" src="https://img.shields.io/badge/Material%20UI-007FFF?style=for-the-badge&logo=mui&logoColor=white" />
-<img align="left" alt="React" width="120px" src="https://img.shields.io/badge/Font_Awesome-339AF0?style=for-the-badge&logo=fontawesome&logoColor=white" />
-<img align="left" alt="React" width="90px" src="https://img.shields.io/badge/Composer-885630?style=for-the-badge&logo=Composer&logoColor=white" />
-<img align="left" alt="React" width="100px" src="https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white" />
+<img align="left" alt="NPM" width="60px" src="https://img.shields.io/badge/npm-CB3837?style=for-the-badge&logo=npm&logoColor=white" />
+<img align="left" alt="Node.js" width="80px" src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" />
+<img align="left" alt="Material UI" width="105px" src="https://img.shields.io/badge/Material%20UI-007FFF?style=for-the-badge&logo=mui&logoColor=white" />
+<img align="left" alt="Composer" width="90px" src="https://img.shields.io/badge/Composer-885630?style=for-the-badge&logo=Composer&logoColor=white" />
+<img align="left" alt="Bootstrap" width="100px" src="https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white" />
 
 <br />
 <br />
 
 ## Other Tools:
-[<img align="left" alt="React" width="70px" src="https://img.shields.io/badge/Xampp-F37623?style=for-the-badge&logo=xampp&logoColor=white" />]
-[<img align="left" alt="React" width="100px" src="https://img.shields.io/badge/phpstorm-143?style=for-the-badge&logo=phpstorm&logoColor=black&color=black&labelColor=darkorchid" />]
+<img align="left" alt="XAMPP" width="70px" src="https://img.shields.io/badge/Xampp-F37623?style=for-the-badge&logo=xampp&logoColor=white" />
+<img align="left" alt="PhpStorm" width="100px" src="https://img.shields.io/badge/phpstorm-143?style=for-the-badge&logo=phpstorm&logoColor=black&color=black&labelColor=darkorchid" />
 
 <p align="center"><h2 align="center">Let's Connect!</h2>
  <p align="center">
