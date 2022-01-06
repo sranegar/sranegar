@@ -50,7 +50,7 @@ I'm Stephanie Ranegar, and I'm a  **designer** that has a passion for **back-end
 
 <br>
 <p align="center"><h3 align="center">Let's Connect!</h3>
-<p align="center"><i>I'd love to hear from you!</i></p>
+<p align="center"><i>I'd love to hear from you.</i></p>
  <p align="center">
     <a href="mailto:stephanie.ranegar@gmail.com" alt="Contact me"><img width="36px" src="svg\envelope-regular.svg"></a>&nbsp;&nbsp;
     <a href="https://linkedin.com/in/stephanie-ranegar" alt="LinkedIn"><img width="29px" src="svg\linkedin-brands.svg"/></a>&nbsp;&nbsp;
