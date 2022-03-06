@@ -4,7 +4,7 @@
 
 I'm Stephanie Ranegar, and I'm a  **designer** that has a passion for **back-end** and **front-end web development.**
 <br/>
-- 🌱 I'm currently learning how to use SaSS 
+- 🌱 I'm learning how to use SaSS 
 - 🔮 Currently seeking a position as a Junior Web Developer
 - 🤖 I tutor kids from ages 7-14 in game development at <a href="https://www.codeninjas.com/" src="Code Ninjas">Code Ninjas</a>
 - ⭐️ I do graphic design for the School of Informatics and Computing
