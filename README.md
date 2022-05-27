@@ -1,9 +1,9 @@
-# Full Stack Developer | Graphic Designer 
+# Full Stack Developer
 
 I'm Stephanie Ranegar, and I'm a  **designer** that has a passion for **back-end** and **front-end web development.**
 <br/>
-- 🌱 I'm practicing my skills with responsive and adaptive web design
-- 🔮 Currently seeking a position as a Junior Web Developer
+- 🌱 I'm learning React Redux using redux form
+- 🔮 Currently developing a RESTful API server & SPA client
 - 🤖 I tutor kids from ages 7-14 in game development at <a href="https://www.codeninjas.com/" src="Code Ninjas">Code Ninjas</a>
 - ⭐️ I do graphic design for the School of Informatics and Computing
 
