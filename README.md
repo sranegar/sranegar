@@ -1,4 +1,4 @@
-# Web Developer | Designer
+## Web Development & Design
 
 I'm Stephanie Ranegar - I'm a full stack web developer with a knowledgabe background in web design. 
 
