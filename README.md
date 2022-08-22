@@ -10,9 +10,9 @@ I'm Stephanie Ranegar - I'm a full stack web developer with a knowledgabe backgr
 
 <hr>
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sranegar&layout=compact&show_icons=true&theme=moltack&hide=hack&langs_count=8&border_radius=3)](https://github.com/sranegar/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sranegar&layout=compact&show_icons=true&theme=ayu-mirage&hide=hack&langs_count=8&border_radius=3)](https://github.com/sranegar/github-readme-stats)
 
-[![Stephanie's GitHub stats](https://github-readme-streak-stats.herokuapp.com/?user=sranegar&show_icons=true&theme=moltack&border_radius=15)](https://github.com/sranegar/github-readme-stats)
+[![Stephanie's GitHub stats](https://github-readme-streak-stats.herokuapp.com/?user=sranegar&show_icons=true&theme=ayu-mirage&border_radius=15)](https://github.com/sranegar/github-readme-stats)
 
 
 ### ⭐️ Skills:
