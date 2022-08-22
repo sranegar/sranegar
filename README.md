@@ -1,6 +1,6 @@
 # Full Stack Developer
 
-I'm Stephanie Ranegar, and I'm a  **designer** that has a passion for **back-end** and **front-end web development.**
+I'm Stephanie Ranegar - I'm a designer turned into fullstack web developer. 
 <br/>
 - 🌱 I'm learning React Redux using redux form
 - 🔮 Currently developing a RESTful API server & SPA client
