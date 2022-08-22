@@ -4,15 +4,13 @@ I'm Stephanie Ranegar - I'm a full stack web developer with a knowledgabe backgr
 
 * Solutions Developer Intern at Irving Materials Inc. 
 * Learning React Redux for state management
-* Recently designed and developed my own MP3 player app using a RESTful API server & SPA client in React.js
+* Recently designed and developed my own MP3 player app using a RESTful API server & SPA client in React.js 🎵
 * Tutored kids from ages 7-14 in game development at <a href="https://www.codeninjas.com/" src="Code Ninjas">Code Ninjas</a>
 * Background in graphic design, interior design, and web design
 
 <hr>
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sranegar&layout=compact&show_icons=true&theme=ayu-mirage&hide=hack&langs_count=8&border_radius=3)](https://github.com/sranegar/github-readme-stats)
-
-[![Stephanie's GitHub stats](https://github-readme-streak-stats.herokuapp.com/?user=sranegar&show_icons=true&theme=ayu-mirage&border_radius=15)](https://github.com/sranegar/github-readme-stats)
 
 
 ### ⭐️ Skills:
@@ -61,7 +59,7 @@ I'm Stephanie Ranegar - I'm a full stack web developer with a knowledgabe backgr
 <details>
   <summary>🔮 GitHub Stats</summary>
 
-  [![Stephanie's GitHub stats](https://github-readme-stats.vercel.app/api?username=sranegar&show_icons=true&theme=tokyonight&border_radius=3)](https://github.com/sranegar/github-readme-stats)
+  [![Stephanie's GitHub stats](https://github-readme-stats.vercel.app/api?username=sranegar&show_icons=true&theme=ayu-mirage&border_radius=3)](https://github.com/sranegar/github-readme-stats)
 
 </details>
 
