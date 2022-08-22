@@ -1,6 +1,6 @@
-# Oh hey! 
+# Web Developer | Designer
 
-I'm a full stack web developer with a knowledgabe background in web design. 
+I'm Stephanie Ranegar - I'm a full stack web developer with a knowledgabe background in web design. 
 
 <br/>
 -  I'm a Solutions Developer Intern at Irving Materials Inc. 
