@@ -3,7 +3,7 @@
 I'm Stephanie Ranegar - I'm a full stack web developer with a knowledgable background in web design. 
 
 * Solutions Developer Intern at Irving Materials Inc. 
-* Learning React Redux for state management
+* Currently learning React Redux for state management
 * Recently designed and developed a personal MP3 player app using a RESTful API server & SPA client in React.js 🎵
 * Tutored kids from ages 7-14 in game development at <a href="https://www.codeninjas.com/" src="Code Ninjas">Code Ninjas</a>
 * Former graphic designer
