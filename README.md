@@ -1,11 +1,12 @@
 # Full Stack Developer
 
-I'm Stephanie Ranegar - I'm a designer turned into fullstack web developer. 
+I'm Stephanie Ranegar - I'm a full stack web developer with a knowledgabe background in web design. 
 <br/>
-- 🌱 I'm learning React Redux using redux form
-- 🔮 Currently developing a RESTful API server & SPA client
-- 🤖 I tutor kids from ages 7-14 in game development at <a href="https://www.codeninjas.com/" src="Code Ninjas">Code Ninjas</a>
-- ⭐️ I do graphic design for the School of Informatics and Computing
+-  I'm a Solutions Developer Intern at Irving Materials Inc. 
+-  I'm currently using React Redux using redux form for state management
+-  I recently designed and developed a music application using a RESTful API server & SPA client in React.js
+-  I tutored kids from ages 7-14 in game development at <a href="https://www.codeninjas.com/" src="Code Ninjas">Code Ninjas</a>
+-  I did graphic design for the School of Informatics and Computing at IUPUI, Indianapolis. 
 
 <hr>
 
