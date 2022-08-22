@@ -6,7 +6,7 @@ I'm Stephanie Ranegar - I'm a full stack web developer with a knowledgabe backgr
 * Learning React Redux for state management
 * Recently designed and developed my own MP3 player app using a RESTful API server & SPA client in React.js
 * Tutored kids from ages 7-14 in game development at <a href="https://www.codeninjas.com/" src="Code Ninjas">Code Ninjas</a>
-* Background in graphic design, interior design, and web design. 
+* Background in graphic design, interior design, and web design
 
 <hr>
 
