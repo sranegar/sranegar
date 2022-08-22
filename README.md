@@ -1,6 +1,7 @@
-# Full Stack Developer
+# Oh hey! 
 
-I'm Stephanie Ranegar - I'm a full stack web developer with a knowledgabe background in web design. 
+I'm a full stack web developer with a knowledgabe background in web design. 
+
 <br/>
 -  I'm a Solutions Developer Intern at Irving Materials Inc. 
 -  I'm currently using React Redux for state management
