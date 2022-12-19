@@ -7,7 +7,8 @@ I'm Stephanie Ranegar - I'm a full stack web developer and designer.
 * Informatics Minor
 * UX/UI
 * Graphic Design
-* Currently accepting new clients for freelance work
+
+🟢 Currently accepting new clients for freelance work
 
 <hr>
 
