@@ -2,12 +2,10 @@
 
 I'm Stephanie Ranegar - I'm a full stack web developer and designer.
 
-* Bachelor's of Science in Media Arts & Science specializing in Web Development and Design
-* Informatics Minor
-* UX/UI
-* Graphic Design
+* Bachelor's of Science in Media Arts & Science specializing in Web Development and Design + Informatics Minor
+* Passionate about working collaboratively on web solutions that promote health and wellness
+* Strong design skills with a passion for CSS animations & graphic design experience
 
-🟢 Currently accepting new clients for freelance work
 
 <hr>
 
