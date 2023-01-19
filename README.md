@@ -2,7 +2,8 @@
 
 I'm Stephanie Ranegar - I'm a full stack web developer and designer.
 
-* Bachelor's of Science in Media Arts & Science specializing in Web Development and Design + Informatics Minor
+* React.js, Node, SQL, JavaScript, HTML, CSS, Semantic UI, Bootstrap
+* WordPress and Shopify customization + design
 * Passionate about working collaboratively on web solutions that promote health and wellness
 * Strong design skills with a passion for CSS animations & graphic design experience
 
