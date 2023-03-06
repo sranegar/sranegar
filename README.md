@@ -2,10 +2,9 @@
 
 I'm Stephanie Ranegar - I'm a full stack web developer and designer.
 
-* React.js, Node, SQL, JavaScript, HTML, CSS, Semantic UI, Bootstrap
-* WordPress and Shopify customization + design
-* Passionate about working collaboratively on web solutions that promote health and wellness
-* Strong design skills with a passion for CSS animations & graphic design experience
+* FRONTEND DEVELOPMENT | ReactJS · Redux · NextJS · JSON · REST API · JavaScript · JQuery · TypeScript · Angular · Bootstrap · Semantic UI · HTML · CSS · Sass · WordPress
+* BACKEND DEVELOPMENT | GIT · NodeJS · Express · MySQL · PHP 
+* DESIGN | AdobeXD · Figma · Photoshop · Illustrator · InDesign · UI/UX
 
 
 <hr>
